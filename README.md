@@ -36,6 +36,7 @@ Bu komut hem ARINC 429 verilerini üretir hem de WebSocket/REST API sunucusunu b
 ### 2. Görüntüleme Dashboard'u
 ```bash
 streamlit run viewer_dashboard.py
+streamlit run manual_dashboard.py
 ```
 
 ## Özellikler
